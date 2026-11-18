@@ -1,1 +1,6 @@
+# Ignora arquivos de código‑fonte do jogo
+*.html
+*.js
+*.css
 
+# Mantém o APK nas publicações Releases (não coloque *.apk aqui!)
